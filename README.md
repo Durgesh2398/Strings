@@ -15,3 +15,7 @@ Most Second largest occurring element
 Rotatinf string check
 
 Non repeating character
+
+Ironman problem
+
+Running length encoding
