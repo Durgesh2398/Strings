@@ -19,3 +19,5 @@ Non repeating character
 Ironman problem
 
 Running length encoding
+
+Arrays of word
