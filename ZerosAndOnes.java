@@ -10,6 +10,7 @@ public class ZerosAndOnes {
 		int count0=0;
 		int count1=0;
 		map.put(0,-1);
+		int count2=0;
 		for(int i=0;i<str.length();i++) {
 			if(str.charAt(i)=='0') {
 				count0++;
