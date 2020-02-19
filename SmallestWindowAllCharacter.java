@@ -17,7 +17,6 @@ public class SmallestWindowAllCharacter {
 	static void output(String str) {
 		int n = str.length(); 
 	       
-        // Count all distinct characters. 
         int dist_count = 0; 
           
         boolean[] visited = new boolean[MAX_CHARS]; 
